@@ -5,7 +5,7 @@
 Hi! 
 
 Welcome to the GitHub repository of Bethany's pie shop.
-This app is the demo app for the Pluralsight course [Working With Text and Lists in HTML](https://app.pluralsight.com/profile/author/barry-luijbregts).
+This app is the demo app for the Pluralsight course [Working With Text and Lists in HTML](https://app.pluralsight.com/library/courses/working-text-lists-html).
 
 You can download a copy of the code and follow along in the course.
 
